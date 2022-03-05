@@ -30,9 +30,5 @@ In order to achieve an increased performance, I changed the binning for applicat
 
 ![Screen Shot 2022-03-05 at 9 33 52 AM](https://user-images.githubusercontent.com/92831268/156894543-ef59d23c-cfe5-4197-88bf-0d6241218d0b.png)
 
-
-
-![Screen Shot 2022-03-05 at 9 33 52 AM](https://user-images.githubusercontent.com/92831268/156894457-c0d90c06-f087-498c-993b-dba738fbc902.png)
-
-
 ## Summary
+Overall, I was able to reach an accuracy score of 72.6%, which was only .2-3% higher than the accuracy score acheived in the first model (Deliverable 1). My recommendation would be to potentially bin by amounts instead of by application type. We only have 17 application types, but over 8,000 different ammounts. It might be more accurate to see if the amount of what was asked for was more successful than by what type of application we are submitting. 
